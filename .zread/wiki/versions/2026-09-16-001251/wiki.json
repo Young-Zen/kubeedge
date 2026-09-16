@@ -1,0 +1,244 @@
+{
+  "id": "2026-09-16-001251",
+  "generated_at": "2026-09-15T16:12:51.8980316Z",
+  "language": "zh",
+  "pages": [
+    {
+      "slug": "1-xiang-mu-gai-shu-kubeedge-de-ding-wei-yu-he-xin-jie-zhi",
+      "title": "项目概述：KubeEdge 的定位与核心价值",
+      "file": "1-xiang-mu-gai-shu-kubeedge-de-ding-wei-yu-he-xin-jie-zhi.md",
+      "section": "快速入门",
+      "level": "Beginner"
+    },
+    {
+      "slug": "2-kuai-su-kai-shi-da-jian-shou-ge-yun-bian-xie-tong-huan-jing",
+      "title": "快速开始：搭建首个云边协同环境",
+      "file": "2-kuai-su-kai-shi-da-jian-shou-ge-yun-bian-xie-tong-huan-jing.md",
+      "section": "快速入门",
+      "level": "Beginner"
+    },
+    {
+      "slug": "3-yuan-ma-bian-yi-yu-gou-jian-zhi-nan-makefile-yu-gou-jian-gui-ze",
+      "title": "源码编译与构建指南（Makefile 与构建规则）",
+      "file": "3-yuan-ma-bian-yi-yu-gou-jian-zhi-nan-makefile-yu-gou-jian-gui-ze.md",
+      "section": "快速入门",
+      "group": "构建与部署",
+      "level": "Beginner"
+    },
+    {
+      "slug": "4-keadm-jian-bu-shu-yu-helm-charts-an-zhuang-pei-zhi",
+      "title": "keadm 一键部署与 Helm Charts 安装配置",
+      "file": "4-keadm-jian-bu-shu-yu-helm-charts-an-zhuang-pei-zhi.md",
+      "section": "快速入门",
+      "group": "构建与部署",
+      "level": "Beginner"
+    },
+    {
+      "slug": "5-ben-di-kai-fa-yu-diao-shi-huan-jing-local-up-yu-dai-ma-sheng-cheng",
+      "title": "本地开发与调试环境（local-up 与代码生成）",
+      "file": "5-ben-di-kai-fa-yu-diao-shi-huan-jing-local-up-yu-dai-ma-sheng-cheng.md",
+      "section": "快速入门",
+      "group": "开发者上手",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "6-gong-xian-liu-cheng-yu-she-qu-gui-fan",
+      "title": "贡献流程与社区规范",
+      "file": "6-gong-xian-liu-cheng-yu-she-qu-gui-fan.md",
+      "section": "快速入门",
+      "group": "开发者上手",
+      "level": "Beginner"
+    },
+    {
+      "slug": "7-yun-bian-xie-tong-zong-ti-jia-gou-yun-duan-yu-bian-yuan-zu-jian-quan-jing",
+      "title": "云边协同总体架构：云端与边缘组件全景",
+      "file": "7-yun-bian-xie-tong-zong-ti-jia-gou-yun-duan-yu-bian-yuan-zu-jian-quan-jing.md",
+      "section": "深入解析",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "8-cloudhub-yun-bian-chang-lian-jie-wang-guan-yu-xiao-xi-fen-fa",
+      "title": "CloudHub：云边长连接网关与消息分发",
+      "file": "8-cloudhub-yun-bian-chang-lian-jie-wang-guan-yu-xiao-xi-fen-fa.md",
+      "section": "深入解析",
+      "group": "云端组件解析",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "9-edgecontroller-bian-yuan-zi-yuan-xia-fa-yu-zhuang-tai-shang-bao",
+      "title": "EdgeController：边缘资源下发与状态上报",
+      "file": "9-edgecontroller-bian-yuan-zi-yuan-xia-fa-yu-zhuang-tai-shang-bao.md",
+      "section": "深入解析",
+      "group": "云端组件解析",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "10-devicecontroller-she-bei-yuan-shu-ju-de-yun-bian-tong-bu",
+      "title": "DeviceController：设备元数据的云边同步",
+      "file": "10-devicecontroller-she-bei-yuan-shu-ju-de-yun-bian-tong-bu.md",
+      "section": "深入解析",
+      "group": "云端组件解析",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "11-synccontroller-ke-kao-tong-bu-yu-bu-chang-ji-zhi",
+      "title": "SyncController：可靠同步与补偿机制",
+      "file": "11-synccontroller-ke-kao-tong-bu-yu-bu-chang-ji-zhi.md",
+      "section": "深入解析",
+      "group": "云端组件解析",
+      "level": "Advanced"
+    },
+    {
+      "slug": "12-controllermanager-edgeapplication-jie-dian-zu-yu-jie-dian-ren-wu-guan-li",
+      "title": "ControllerManager：EdgeApplication、节点组与节点任务管理",
+      "file": "12-controllermanager-edgeapplication-jie-dian-zu-yu-jie-dian-ren-wu-guan-li.md",
+      "section": "深入解析",
+      "group": "云端组件解析",
+      "level": "Advanced"
+    },
+    {
+      "slug": "13-cloudstream-kubectl-exec-logs-metrics-yun-bian-sui-dao",
+      "title": "CloudStream：kubectl exec/logs/metrics 云边隧道",
+      "file": "13-cloudstream-kubectl-exec-logs-metrics-yun-bian-sui-dao.md",
+      "section": "深入解析",
+      "group": "云端组件解析",
+      "level": "Advanced"
+    },
+    {
+      "slug": "14-router-ji-yu-gui-ze-de-yun-bian-xiao-xi-lu-you",
+      "title": "Router：基于规则的云边消息路由",
+      "file": "14-router-ji-yu-gui-ze-de-yun-bian-xiao-xi-lu-you.md",
+      "section": "深入解析",
+      "group": "云端组件解析",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "15-edgecore-mo-kuai-hua-bian-yuan-he-xin-yu-qi-dong-sheng-ming-zhou-qi",
+      "title": "EdgeCore：模块化边缘核心与启动生命周期",
+      "file": "15-edgecore-mo-kuai-hua-bian-yuan-he-xin-yu-qi-dong-sheng-ming-zhou-qi.md",
+      "section": "深入解析",
+      "group": "边缘组件解析",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "16-edged-qing-liang-ji-bian-yuan-jie-dian-dai-li-yu-rong-qi-guan-li",
+      "title": "Edged：轻量级边缘节点代理与容器管理",
+      "file": "16-edged-qing-liang-ji-bian-yuan-jie-dian-dai-li-yu-rong-qi-guan-li.md",
+      "section": "深入解析",
+      "group": "边缘组件解析",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "17-edgehub-yun-bian-xiao-xi-shou-fa-shu-niu-yu-zheng-shu-ren-zheng",
+      "title": "EdgeHub：云边消息收发枢纽与证书认证",
+      "file": "17-edgehub-yun-bian-xiao-xi-shou-fa-shu-niu-yu-zheng-shu-ren-zheng.md",
+      "section": "深入解析",
+      "group": "边缘组件解析",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "18-metamanager-yu-metaserver-chi-xian-yuan-shu-ju-cun-chu-yu-ben-di-api-server",
+      "title": "MetaManager 与 MetaServer：离线元数据存储与本地 API Server",
+      "file": "18-metamanager-yu-metaserver-chi-xian-yuan-shu-ju-cun-chu-yu-ben-di-api-server.md",
+      "section": "深入解析",
+      "group": "边缘组件解析",
+      "level": "Advanced"
+    },
+    {
+      "slug": "19-eventbus-mqtt-xiao-xi-zong-xian-yu-she-bei-jie-ru",
+      "title": "EventBus：MQTT 消息总线与设备接入",
+      "file": "19-eventbus-mqtt-xiao-xi-zong-xian-yu-she-bei-jie-ru.md",
+      "section": "深入解析",
+      "group": "边缘组件解析",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "20-devicetwin-she-bei-shu-zi-luan-sheng-yu-zhuang-tai-guan-li",
+      "title": "DeviceTwin：设备数字孪生与状态管理",
+      "file": "20-devicetwin-she-bei-shu-zi-luan-sheng-yu-zhuang-tai-guan-li.md",
+      "section": "深入解析",
+      "group": "边缘组件解析",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "21-servicebus-yu-edgestream-bian-yuan-http-fu-wu-fang-wen-yu-sui-dao-ke-hu-duan",
+      "title": "ServiceBus 与 EdgeStream：边缘 HTTP 服务访问与隧道客户端",
+      "file": "21-servicebus-yu-edgestream-bian-yuan-http-fu-wu-fang-wen-yu-sui-dao-ke-hu-duan.md",
+      "section": "深入解析",
+      "group": "边缘组件解析",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "22-beehive-mo-kuai-hua-xiao-xi-tong-xin-kuang-jia",
+      "title": "Beehive：模块化消息通信框架",
+      "file": "22-beehive-mo-kuai-hua-xiao-xi-tong-xin-kuang-jia.md",
+      "section": "深入解析",
+      "group": "基础框架与共享库",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "23-viaduct-yun-bian-xiao-xi-chuan-shu-tong-dao-websocket-quic",
+      "title": "Viaduct：云边消息传输通道（WebSocket/QUIC）",
+      "file": "23-viaduct-yun-bian-xiao-xi-chuan-shu-tong-dao-websocket-quic.md",
+      "section": "深入解析",
+      "group": "基础框架与共享库",
+      "level": "Advanced"
+    },
+    {
+      "slug": "24-api-ding-yi-crd-gui-fan-yu-dai-ma-sheng-cheng-ti-xi",
+      "title": "API 定义、CRD 规范与代码生成体系",
+      "file": "24-api-ding-yi-crd-gui-fan-yu-dai-ma-sheng-cheng-ti-xi.md",
+      "section": "深入解析",
+      "group": "基础框架与共享库",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "25-mapper-framework-yu-dmi-she-bei-ying-she-jie-ru",
+      "title": "Mapper Framework 与 DMI 设备映射接入",
+      "file": "25-mapper-framework-yu-dmi-she-bei-ying-she-jie-ru.md",
+      "section": "深入解析",
+      "group": "设备与 IoT 扩展",
+      "level": "Advanced"
+    },
+    {
+      "slug": "26-yun-bian-an-quan-yu-ren-zheng-ti-xi-zheng-shu-ling-pai-yu-bian-yuan-jian-quan",
+      "title": "云边安全与认证体系（证书、令牌与边缘鉴权）",
+      "file": "26-yun-bian-an-quan-yu-ren-zheng-ti-xi-zheng-shu-ling-pai-yu-bian-yuan-jian-quan.md",
+      "section": "深入解析",
+      "group": "进阶主题",
+      "level": "Advanced"
+    },
+    {
+      "slug": "27-ke-kao-xiao-xi-chuan-di-yu-bian-yuan-zi-zhi-ji-zhi",
+      "title": "可靠消息传递与边缘自治机制",
+      "file": "27-ke-kao-xiao-xi-chuan-di-yu-bian-yuan-zi-zhi-ji-zhi.md",
+      "section": "深入解析",
+      "group": "进阶主题",
+      "level": "Advanced"
+    },
+    {
+      "slug": "28-edgesite-qing-liang-ji-bian-yuan-du-li-ji-qun",
+      "title": "EdgeSite：轻量级边缘独立集群",
+      "file": "28-edgesite-qing-liang-ji-bian-yuan-du-li-ji-qun.md",
+      "section": "深入解析",
+      "group": "进阶主题",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "29-ce-shi-ti-xi-duan-dao-duan-yu-ji-cheng-ce-shi-kuang-jia",
+      "title": "测试体系：端到端与集成测试框架",
+      "file": "29-ce-shi-ti-xi-duan-dao-duan-yu-ji-cheng-ce-shi-kuang-jia.md",
+      "section": "深入解析",
+      "group": "进阶主题",
+      "level": "Advanced"
+    },
+    {
+      "slug": "30-she-ji-ti-an-dao-du-li-jie-jia-gou-yan-jin-jue-ce",
+      "title": "设计提案导读：理解架构演进决策",
+      "file": "30-she-ji-ti-an-dao-du-li-jie-jia-gou-yan-jin-jue-ce.md",
+      "section": "深入解析",
+      "group": "进阶主题",
+      "level": "Advanced"
+    }
+  ]
+}
